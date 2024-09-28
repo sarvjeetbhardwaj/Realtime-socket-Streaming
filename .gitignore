@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+src/datasets/yelp_dataset
+src/datasets/yelp_academic_dataset_review.json
+
 # C extensions
 *.so
 
